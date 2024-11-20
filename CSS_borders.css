@@ -1,0 +1,13 @@
+#firstp{
+	border-width: 5px;
+	border-style: solid;
+	border-color: indianred;
+}
+
+#secondp{
+	border:4px dashed darkkhaki;
+}
+
+#thirdp{
+	border:3px dotted tan;
+}

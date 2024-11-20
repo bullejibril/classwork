@@ -1,0 +1,35 @@
+/*p{
+	color:midnightblue;
+}
+
+
+#para-2{color: teal;
+
+}
+#para-3{
+	color:salmon;
+}
+#para-4{
+	color:peru;
+}
+
+
+#para-5{
+	color:darkgray;
+}
+
+.head{
+	color: yellowgreen;
+}
+
+.para-all{
+	color:blanchedalmond;
+}*/para-
+
+p,h1,h5{
+	color:Navy;
+}
+
+*{
+	color:red;
+}

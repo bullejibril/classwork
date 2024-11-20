@@ -1,0 +1,63 @@
+p{
+	color:#FFFF00;
+	background-color: #00FF00;
+}
+
+h2{
+	color:#00FFFF;
+	background-color:#000080;
+}
+#para-1{
+	text-decoration: underline;
+}
+
+#para-2{
+	text-decoration: line-through;
+}
+
+#para-3{
+	text-decoration: overline;
+}
+
+#link1{
+	
+}
+#link2{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#head1{
+	text-align: left;
+	font-family:helvetica ;
+}
+
+#head2{
+	text-align: right;
+	font-family: segoe UI;
+	font-style: italic;
+}
+
+#head3{
+	text-align: centre ;
+	font-family:calibri;
+}
+
+#firstp{
+	font-family: sans-serif;
+}
+#secondp{
+	font-family:verdana;
+}
+#thirdp{
+	font-family: tahoma;
+}
+#first{
+	font-size:20px ;
+}
+#second{
+	font-size: 30px;
+}
+#third{
+	font-size: 40px;
+}
